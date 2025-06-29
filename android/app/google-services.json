@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "797279245809",
+    "firebase_url": "https://wildscan-79e9c-default-rtdb.firebaseio.com",
+    "project_id": "wildscan-79e9c",
+    "storage_bucket": "wildscan-79e9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797279245809:android:0dbc414bfb24c8fb0f2050",
+        "android_client_info": {
+          "package_name": "com.example.wildscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797279245809-vt0oshup65c0o0s6n9skihbkeh16ih8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wildscan",
+            "certificate_hash": "a1ce202cb67ce050997d536e85011b3c45eee92c"
+          }
+        },
+        {
+          "client_id": "797279245809-t29hava44fiugddm6vse2339k2lp055i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSTPptwlXdPEwE5_X4JA83uriTo6lePo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797279245809-nmqpm4s9hk93qa9kt1ba72kamiulnsct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797279245809-3ki605m79koo5bm90ps78muff5i990e3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wildscan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
